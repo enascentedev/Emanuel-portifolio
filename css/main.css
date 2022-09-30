@@ -295,13 +295,13 @@ span {
   font-weight: 900;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 100%) {
   .menu-top .home .descricao {
     font-size: 2.5rem;
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 100%) {
   .menu-top .home .redes-sociais .social-item .fab,
   .menu-top .home .redes-sociais .social-item .fas {
     font-size: 2.2rem;
