@@ -434,7 +434,7 @@ main {
   padding: 5px;
   cursor: pointer;
 
-  background: #fff;
+  background: rgb(83, 32, 172);
 
   display: flex;
   align-items: center;
